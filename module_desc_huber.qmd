@@ -618,7 +618,7 @@ After successful completion of the module, students are able to:
 
 ## Module Content
 
-### Data science in practice
+### Data science in practice {-}
 
 - Importance of data science in businesses and trends in a data-driven business environment
 - Defining Business Intelligence (BI), Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
@@ -679,7 +679,7 @@ After successful completion of the module, students are able to:
 
 ## Module Content
 
-### Fundamentals
+### Fundamentals {-}
 
 - Overview of Artificial Intelligence (AI) and its key components
 - Exploration of various domains of AI (e.g., Natural Language Processing, Computer Vision, Robotics)
@@ -694,7 +694,7 @@ After successful completion of the module, students are able to:
     - Societal concerns such as job displacement and misinformation
 - Future Trends in AI
 
-### Core components of AI
+### Core components of AI {-}
 
 - Machine Learning (ML)
     - Definition and differences between AI and ML
@@ -710,7 +710,7 @@ After successful completion of the module, students are able to:
     - Applications in image recognition, video analysis, and autonomous vehicles
 
 
-### Unsupervised learning
+### Unsupervised learning {-}
 
 - Overview of common algorithms such as decision trees, support vector machines, and gradient boosting
 - Review of popular AI frameworks and libraries in Python and/or R.
