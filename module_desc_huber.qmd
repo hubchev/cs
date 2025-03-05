@@ -633,7 +633,7 @@ After successful completion of the module, students are able to:
 - Techniques to establish causation: matching, natural experiments, field experiments, and laboratory experiments
 
 
-### Introduction to the statistical models of supervised learning
+### Introduction to the statistical models of supervised learning {-}
 
 - Definition and scope of supervised learning
 
