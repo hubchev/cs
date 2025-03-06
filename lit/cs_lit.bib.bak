@@ -303,7 +303,7 @@
 
 @Book{Fowler2019Refactorin,
   author    = {Fowler, Martin},
-  title     = {Refactoring: Improving the Design of Existing Code},
+  title     = {Refactorin: Improving the Design of Existing Codeg},
   year      = {2019},
   edition   = {2},
   publisher = {Addison Wesley},

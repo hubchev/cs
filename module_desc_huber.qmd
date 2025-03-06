@@ -637,7 +637,7 @@ After successful completion of the module, students are able to:
 
 - Definition and scope of supervised learning
 
-- Regression Analysis
+- Regression analysis
   - Simple linear regression
   - Multiple linear regression
   - Non-linear regression models
@@ -649,13 +649,13 @@ After successful completion of the module, students are able to:
   - Generalized Least Squares (GLS)
   - Maximum Likelihood Estimation (MLE)
 
-- Time Series Analysis
+- Time series analysis
   - Components of time series data (trend, seasonality, cyclicality)
   - Stationarity and unit root tests
   - Autoregressive (AR) and Moving Average (MA) models
   - ARIMA models
 
-- Applications of Classification and prediction techniques in economics, finance, and social sciences
+- Applications of classification and prediction techniques in economics, finance, and social sciences
 
 **Literature** 
 
@@ -692,7 +692,7 @@ After successful completion of the module, students are able to:
     - Building a legal framework
     - Technical challenges in developing robust AI systems
     - Societal concerns such as job displacement and misinformation
-- Future Trends in AI
+- Future trends in AI
 
 ### Core components of AI {-}
 
