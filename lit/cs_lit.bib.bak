@@ -303,7 +303,7 @@
 
 @Book{Fowler2019Refactorin,
   author    = {Fowler, Martin},
-  title     = {Refactorin: Improving the Design of Existing Codeg},
+  title     = {Refactoring: Improving the Design of Existing Code},
   year      = {2019},
   edition   = {2},
   publisher = {Addison Wesley},
@@ -777,6 +777,15 @@
   url       = {http://rafalab.dfci.harvard.edu/dsbook-part-2/},
   file      = {Irizarry2019Introduction.pdf:pdfs/Irizarry2019Introduction.pdf:PDF},
   timestamp = {2022-01-17},
+}
+
+@Book{Norvig2021Artificial,
+  author    = {Peter Norvig and Stuart Russell},
+  title     = {Artificial Intelligence: A Modern Approach},
+  year      = {2021},
+  subtitle  = {Global Edition},
+  publisher = {Pearson Education},
+  timestamp = {2025-03-06},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

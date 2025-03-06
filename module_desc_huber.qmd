@@ -727,7 +727,7 @@ After successful completion of the module, students are able to:
 
 
 **Literature** 
-@James2021Introduction, @Gareth2023Introduction, @Starmer2022StatQuest, @Bekes2021Data, @Bruce2020Practical, @Burkov2019Hundred
+@James2021Introduction, @Gareth2023Introduction, @Starmer2022StatQuest, @Bekes2021Data, @Bruce2020Practical, @Burkov2019Hundred, @Norvig2021Artificial
 
 
 # Applied Machine Learning 
@@ -769,7 +769,7 @@ In this course, students will learn how to implement statistical methods of mach
 
 **Literature** 
 
-@VanderPlas2022Python, @Irizarry2024Advanced, @VanderPlas2022Python, @Geron2022Hands, @Gareth2023Introduction, @James2021Introduction, @Gareth2023Introduction, @Bruce2020Practical
+@VanderPlas2022Python, @Irizarry2024Advanced, @VanderPlas2022Python, @Geron2022Hands, @Gareth2023Introduction, @James2021Introduction, @Gareth2023Introduction, @Bruce2020Practical, @Norvig2021Artificial
 
 # 
 
