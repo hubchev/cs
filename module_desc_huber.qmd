@@ -39,7 +39,7 @@ filters:
   - quarto
   - section-bibliographies
 reference-section-title: References
-bibliography: "lit/cs_lit.bib"
+bibliography: "cs_lit.bib"
 citeproc: false
 csl: "https://www.zotero.org/styles/apa"
 ---
