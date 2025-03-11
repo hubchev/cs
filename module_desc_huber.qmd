@@ -108,7 +108,7 @@ After successful completion of the module, students are able to:
 
 **Literature** 
 
-@Weber2022Basics, @Xu2021Computational, @Cormen2022Introduction, @Deitel2019Intro. @Brookshear2019Computer, @Scott2009How
+@Weber2022Basics, @Xu2021Computational, @Cormen2022Introduction, @Deitel2019Intro. @Brookshear2019Computer, @Scott2009How, @Petzold2022Code
 
 
 
@@ -147,7 +147,7 @@ After successful completion of the module, students are able to:
 
 **Literature** 
 
-@Gagniuc2023Introduction, @Deitel2019Intro, @Ritza2022Learn, @Charatan2022Programming, @Igual2017Introduction
+@Gagniuc2023Introduction, @Deitel2019Intro, @Ritza2022Learn, @Charatan2022Programming, @Igual2017Introduction, @Taulli2024AI
 
 
 
@@ -180,7 +180,7 @@ After successful completion of the module, students are able to:
 
 **Literature** 
 
-@Hartmann2023Mathematics, @Hastie2009Elements, @Deisenroth2020Mathematics
+@Hartmann2023Mathematics, @Hastie2009Elements, @Deisenroth2020Mathematics, @Diez2019OpenIntro
 
 
 
@@ -315,7 +315,7 @@ After successful completion of the module, students are able to:
 
 
 **Literature** 
-@Comer2024Essentials, @Fox2024Computer, @Tanenbaum2023Modern
+@Comer2024Essentials, @Fox2024Computer, @Tanenbaum2023Modern, @Petzold2022Code
 
 
 
@@ -366,6 +366,8 @@ After successful completion of the module, students are able to:
 
 **Literature** 
 
+@Taulli2024AI, @Liao2020Ethics
+
 
 
 # Programming with Java
@@ -400,7 +402,7 @@ After successful completion of the module, students are able to:
 
 
 **Literature** 
-@Downey2020Think, @Liang2021Introduction, @Charatan2022Programming, @Schildt2024Java
+@Downey2020Think, @Liang2021Introduction, @Charatan2022Programming, @Schildt2024Java, @Taulli2024AI
 
 
 
@@ -465,31 +467,33 @@ After successful completion of the module, students are able to:
 
 ## Module Content
 
-- Introduction to Object-Oriented Programming and C++
-- Differences between C++, Java, and Python
-- Key C++ Concepts
-  - Classes and Objects
-  - Inheritance and Polymorphism
-  - Memory Management and Move Semantics
-  - Multiple Inheritance
-  - Operator Overloading
-  - Exception Handling
-  - Input/Output in C++
-  - Lambda Functions
-- Error Analysis and Debugging Techniques
-- Examples of Applications of C++
-  - App and Game Development
-  - System Software
-  - Embedded Systems and Robotics
-  - Blockchain Technologies
-  - High-Performance Computing
-  - Graphical User Interfaces (GUIs)
-  - Database Management Systems
-  - Web Browsers
-  - Network Programming
-  - Machine Learning and Data Science
-  - Virtual Reality (VR) and Augmented Reality (AR)
+- Introduction to object-oriented programming and C++
+- Differences between C++, Python, and Java
+- Key C++ concepts
+    - Classes and objects
+    - Inheritance and polymorphism
+    - Memory management and move semantics
+    - Multiple inheritance
+    - Operator overloading
+    - Exception handling
+    - Input/output in C++
+    - Lambda functions
+- Error analysis and debugging techniques
+- Examples of applications of C++
+    - App and game development
+    - System software
+    - Embedded systems and robotics
+    - Blockchain technologies
+    - High-performance computing
+    - Graphical user interfaces (GUIs)
+    - Database management systems
+    - Web browsers
+    - Network programming
+    - Machine learning and data science
+    - Virtual reality (VR) and augmented reality (AR)
 - Software and AI applications for C++ programming
+
+
 
 
 **Literature** 
@@ -771,11 +775,19 @@ In this course, students will learn how to implement statistical methods of mach
 
 @VanderPlas2022Python, @Irizarry2024Advanced, @VanderPlas2022Python, @Geron2022Hands, @Gareth2023Introduction, @James2021Introduction, @Gareth2023Introduction, @Bruce2020Practical, @Norvig2021Artificial
 
-# 
+# Capstone Project
 
 ## Learning Outcomes
 
 After successful completion of the module, students are able to:
+
+- Identify and analyze a specialization-related problem that is economically or scientifically relevant and practice-oriented within their field of study.
+- Apply appropriate research methodologies and techniques to investigate the identified problem and demonstrate a comprehensive understanding of relevant theories and practices.
+- Plan, design, and implement a practical solution to the identified problem within the specified time frame, effectively showcasing project management skills.
+- Present project results in a clear and professional format, utilizing suitable media and techniques to enhance audience engagement and understanding.
+- Critically evaluate project outcomes against original objectives, discussing both successes and limitations of the approach taken.
+- Reflect on the learning process throughout the capstone project, recognizing personal growth, skill development, and areas for future improvement.
+- Collaborate effectively in a team environment (if the project is a team project), demonstrating skills in negotiation, conflict resolution, and mutual support to achieve common goals.
 
 
 

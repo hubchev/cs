@@ -1394,14 +1394,4 @@
   timestamp = {2025-03-11},
 }
 
-@Book{Jorgensen2014Software,
-  author    = {Jorgensen, Paul C.},
-  title     = {Software Testing},
-  year      = {2014},
-  subtitle  = {A Craftsman’s Approach},
-  edition   = {4},
-  publisher = {CRC Press/Auerbach Publications},
-  timestamp = {2025-03-11},
-}
-
 @Comment{jabref-meta: databaseType:biblatex;}
