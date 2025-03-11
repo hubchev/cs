@@ -309,7 +309,7 @@ Literature
 
 # Software Project, Process and Quality Management
 
-# Learning Outcomes
+## Learning Outcomes
 
 After successful completion of the module, students are able to:
 
