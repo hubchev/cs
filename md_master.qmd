@@ -505,24 +505,93 @@ siehe M-DSIBM 8 Decision-Making with Artificial Intelligence & Big Data
 
 # Deep Learning
 
-tba
+## Learningn Outcomes
 
-<!-- # -->
+After successful completion of the module, students are able to:
 
-<!-- Literature  -->
+- Explain basic concepts and features of deep learning and categorize them into relevant applications.
+- Differentiate between deep learning, neural networks, and traditional machine learning approaches,
+- Evaluate challenges in applying deep learning techniques in various domains,
+- Compare traditional neural networks with advanced architectures such as CNNs and RNNs,
+- Present findings from case studies that utilize deep learning in industry applications,
+- Explain the ethical considerations and implications of deep learning technologies,
+- Develop and implement a deep learning project independently, applying learned concepts to solve innovative problems.
+
+## Module Content
+
+### Introduction to Deep Learning (DL)
+- Definition and historical context
+- Basic concepts and features of DL
+- Differences between AI, Machine Learning (NL), Neural Networks (NN), and DL
+- Challenges in applying deep learning
+- Overview of applications
+
+### Setting up the environment
+- Installing Python/R and required libraries
+- Overview of IDEs (e.g., Jupyter Notebook, Rstudio)
+- Basic data handling with Pandas (Python) and/or dplyr (R)
+
+### Fundamental concepts
+- Basics of ML and neural networks
+- Optimization strategies
+- Activation functions 
+- Training techniques
+- Regularization techniques
+- Best practices
+
+### Convolutional Neural Networks (CNNs)
+- Introduction to CNNs and their applications
+- Implementing CNNs for image classification
+- Transfer learning and pre-trained models
+
+### Advanced neural network architectures 
+- Recurrent neural networks (RNNs)
+- Natural language processing (NLP)
+- Long short-term memory (LSTM) networks for sequence prediction
+- Generative adversarial networks (GANs)
+
+### Conclusion 
+- Case studies and applications of DL in industry
+- Current trends and challenges in research
+- Ethical considerations in AI and DL
+- The challenge of interpretability and explainability of outcomes
+
+## Hands-on Projects
+-  Group Project: Apply Deep Learning to an Innovative Problem
+
+Literature
+
+@Kelleher2019Deep
+@Geron2022Hands
+@Chollet2021Deep
+@Glassner2021Deep
+@Foster2022Generative
+@Kneusel2021Practical
+@Howard2020Deep
+@Prince2023Understanding
+@Chollet2022Deep
+@Keydana2023Deep
+@Starmer2025StatQuest
+@Molnar2025Interpretable    
+
+# Ethical Hacking and Penetration Testing 
+
+Literature
 
 
 <!-- @schwenk2022cybersecurity -->
-<!-- @stallings2023computer -->
+@stallings2023computer
 <!-- @mcnab2016network -->
-<!-- @beutelspacher2025modern -->
-<!-- @sikorski2012practical -->
-<!-- @erickson2007hacking -->
-<!-- @hadnagy2018social -->
-<!-- @weidman2014penetration -->
-<!-- @allsopp2017advanced -->
-<!-- @acres2020ssl -->
-<!-- @howard2023cybersecurity -->
+@schwenk2022
+@beutelspacher2025modern
+@sikorski2012practical
+@erickson2007hacking
+@hadnagy2018social
+@weidman2014penetration
+@allsopp2017advanced
+@acres2020ssl
+@edwards2024
+@howard2023cybersecurity
 
 
 

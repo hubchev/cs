@@ -134,7 +134,7 @@
   title     = {Introduction to Computation and Programming Using Python: With Application to Computational Modeling and Understanding Data},
   year      = {2016},
   edition   = {3},
-  publisher = {MIT press},
+  publisher = {MIT Press},
   file      = {Guttag2016Introduction.pdf:Guttag2016Introduction.pdf:PDF},
   timestamp = {2025-01-23},
 }
@@ -342,7 +342,7 @@
   title     = {Learning {SQL}: Generate, manipulate, and retrieve data},
   year      = {2020},
   edition   = {3},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   file      = {Beaulieu2020Learning.pdf:Beaulieu2020Learning.pdf:PDF},
   timestamp = {2023-01-26},
 }
@@ -417,7 +417,7 @@
   title     = {Think {Java}: How to Think Like a Computer Scientist},
   year      = {2019},
   edition   = {2},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   file      = {Downey2020Think.pdf:Downey2020Think.pdf:PDF},
   timestamp = {2025-02-24},
 }
@@ -426,7 +426,7 @@
   author    = {Klaus Iglberger},
   title     = {C++ Software Design: Design Principles and Patterns for High-Quality Software},
   year      = {2022},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   timestamp = {2025-02-24},
 }
 
@@ -535,7 +535,7 @@
   author    = {Lewis, Harry R.},
   title     = {Ideas That Created the Future: Classic Papers of Computer Science},
   year      = {2021},
-  publisher = {The MIT Press},
+  publisher = {MIT Press},
   timestamp = {2025-02-25},
 }
 
@@ -685,10 +685,11 @@
 
 @Book{Geron2022Hands,
   author    = {G{\'e}ron, Aur{\'e}lien},
-  title     = {Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems},
+  title     = {Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow},
   year      = {2022},
+  subtitle  = {Concepts, Tools, and Techniques to Build Intelligent Systems},
   edition   = {3},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   file      = {Geron2022Hands.pdf:Geron2022Hands.pdf:PDF},
   timestamp = {2025-03-05},
 }
@@ -748,7 +749,7 @@
   title     = {Practical Statistics for Data Scientists: 50+ Essential Concepts Using {R} and {Python}},
   year      = {2020},
   edition   = {2},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   address   = {Sebastopol, CA},
   file      = {Bruce2020Practical.pdf:Bruce2020Practical.pdf:PDF},
   month     = jun,
@@ -760,7 +761,7 @@
   title     = {The Hundred-Page Machine Learning Book},
   year      = {2019},
   publisher = {Andriy Burkov},
-  file      = {Burkov2019Hundred.pdf:Burkov2019Hundred.pdf:PDF},
+  file      = {Burkov2019Hundred.pdf:lit/Burkov2019Hundred.pdf:PDF},
   timestamp = {2025-03-05},
 }
 
@@ -869,7 +870,7 @@
   title     = {Programming Robots with {ROS}},
   year      = {2016},
   subtitle  = {A Practical Introduction to the Robot Operating System},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   file      = {Quigley2016Programming.pdf:lit/Quigley2016Programming.pdf:PDF},
   timestamp = {2025-03-10},
 }
@@ -879,7 +880,7 @@
   title     = {{AI}-Assisted Programming},
   year      = {2024},
   subtitle  = {Better Planning, Coding, Testing, and Deployment},
-  publisher = {O'Reilly Media},
+  publisher = {O'Reilly},
   file      = {Taulli2024AI.pdf:lit/Taulli2024AI.pdf:PDF},
   timestamp = {2025-03-10},
 }
@@ -1062,14 +1063,6 @@
   year      = {2023}
 }
 
-@Book{Schwenk2022Cybersecurity,
-  author    = {J. Schwenk},
-  title     = {Cybersecurity Governance, Risk Management, and Compliance},
-  year      = {2022},
-  edition   = {1st},
-  publisher = {Springer},
-}
-
 @book{stallings2023computer,
   author    = {W. Stallings and L. Brown},
   title     = {Computer Security Principles and Practice},
@@ -1118,12 +1111,12 @@
   year      = {2009}
 }
 
-@book{rais2024zerotrust,
+@Book{rais2024zerotrust,
   author    = {R. Rais and C. Morillo and D. Barth},
   title     = {Zero Trust Networks: Building Secure Systems in Untrusted Networks},
-  publisher = {O'Reilly Media},
+  year      = {2024},
   edition   = {2nd},
-  year      = {2024}
+  publisher = {O'Reilly},
 }
 
 @Book{Howard2023Cybersecurity,
@@ -1144,14 +1137,6 @@
   timestamp = {2022-03-14},
 }
 
-@Book{Schwenk2022Cybersecuritya,
-  author    = {J. Schwenk},
-  title     = {Cybersecurity Governance, Risk Management, and Compliance},
-  year      = {2022},
-  edition   = {1},
-  publisher = {Springer},
-}
-
 @Book{Stallings2023Computer,
   author    = {W. Stallings and L. Brown},
   title     = {Computer Security Principles and Practice},
@@ -1160,12 +1145,12 @@
   publisher = {Pearson},
 }
 
-@book{mcnab2016network,
+@Book{mcnab2016network,
   author    = {C. McNab},
   title     = {Network Security Assessment: Know Your Network},
-  publisher = {O'Reilly Media},
+  year      = {2016},
   edition   = {3},
-  year      = {2016}
+  publisher = {O'Reilly},
 }
 
 @Book{Beutelspacher2025Modern,
@@ -1403,6 +1388,125 @@
   publisher = {CRC Press/Auerbach Publications},
   file      = {Jorgensen2014Software.pdf:lit/Jorgensen2014Software.pdf:PDF},
   timestamp = {2025-03-11},
+}
+
+@Book{Chollet2021Deep,
+  author    = {Chollet, François},
+  title     = {Deep Learning with Python},
+  year      = {2021},
+  edition   = {2},
+  publisher = {Manning},
+  file      = {Chollet2021Deep.pdf:lit/Chollet2021Deep.pdf:PDF},
+  timestamp = {2023-02-09},
+}
+
+@Book{Glassner2021Deep,
+  author    = {Glassner, Andrew},
+  title     = {Deep Learning},
+  year      = {2021},
+  subtitle  = {A Visual Approach},
+  publisher = {No Starch Press},
+  timestamp = {2025-03-13},
+}
+
+@Book{Kneusel2021Practical,
+  author    = {Kneusel, Ronald T},
+  title     = {Practical Deep Learning},
+  year      = {2021},
+  subtitle  = {A Python-Based Introduction},
+  publisher = {No Starch Press},
+  timestamp = {2025-03-13},
+}
+
+@Book{Foster2022Generative,
+  author    = {Foster, David},
+  title     = {Generative Deep Learning},
+  year      = {2022},
+  subtitle  = {Teaching Machines to Paint, Write, Compose, and Play},
+  publisher = {O'Reilly},
+  timestamp = {2025-03-13},
+}
+
+@Book{Howard2020Deep,
+  author    = {Howard, Jeremy and Gugger, Sylvain},
+  title     = {Deep Learning for Coders with Fastai and Pytorch},
+  year      = {2020},
+  subtitle  = {AI Applications Without a PhD},
+  publisher = {O'Reilly},
+  timestamp = {2025-03-13},
+}
+
+@Book{Prince2023Understanding,
+  author    = {Prince, Simon J.D.},
+  title     = {Understanding Deep Learning},
+  year      = {2023},
+  publisher = {MIT Press},
+  timestamp = {2025-03-13},
+}
+
+@Book{Chollet2022Deep,
+  author    = {François Chollet and Tomasz Kalinowski and Allaire, J. J.},
+  title     = {Deep Learning with R},
+  year      = {2022},
+  timestamp = {2025-03-13},
+}
+
+@Book{Keydana2023Deep,
+  author    = {Sigrid Keydana},
+  title     = {Deep Learning and Scientific Computing with R torch},
+  year      = {2023},
+  maintitle = {The R Series},
+  publisher = {Chapman \& Hall/CRC Press},
+  timestamp = {2025-03-13},
+}
+
+@Book{Molnar2025Interpretable,
+  author    = {Christoph Molnar},
+  title     = {Interpretable Machine Learning},
+  year      = {2025},
+  subtitle  = {A Guide For Making Black Box Models Explainable},
+  edition   = {3},
+  publisher = {Christoph Molnar},
+  url       = {https://christophm.github.io/interpretable-ml-book/},
+  timestamp = {2025-03-13},
+}
+
+@Book{Starmer2025StatQuest,
+  author    = {Josh Starmer},
+  title     = {The StatQuest Illustrated Guide to Neural Networks and AI},
+  year      = {2025},
+  subtitle  = {With hands-on examples in PyTorch!!!},
+  publisher = {Independently published},
+  timestamp = {2025-03-13},
+}
+
+@Book{schwenk2022,
+  author    = {Schwenk, Jens},
+  title     = {Guide to Internet Cryptography},
+  year      = {2022},
+  subtitle  = {Security Protocols and Real-World Attack Implications},
+  edition   = {1},
+  publisher = {Springer},
+  timestamp = {2025-03-13},
+}
+
+@Book{edwards2024,
+  author    = {Edwards, J. and Weaver, G.},
+  title     = {The Cybersecurity Guide to Governance, Risk, and Compliance},
+  year      = {2024},
+  edition   = {1},
+  publisher = {Wiley},
+  timestamp = {2025-03-13},
+}
+
+@Book{Burkov2025Hundred,
+  author    = {Burkov, Andriy},
+  title     = {The Hundred-Page Language Models Book},
+  year      = {2025},
+  publisher = {Andriy Burkov},
+  url       = {https://themlbook.com/},
+  file      = {Burkov2019Hundred.pdf:lit/Burkov2019Hundred.pdf:PDF},
+  timestamp = {2025-03-05},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
